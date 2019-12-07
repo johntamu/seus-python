@@ -1,0 +1,8 @@
+Collection sites further out into the Blake Plateau have lower d15N at approxiamtely 500m depth versus the collection sites from closer to the continental slope. 
+
+Low d15N values would be consistent with nitrogen fixation, which globall is considered to be about -1 permil d15N. Jacksonville is a bit elevated which could correspond to nutrient utilization at the time. In general the contintental slope values are around 5 permil, close to oceanic values. This could therefore be indicative of water sourced from the tropics with fixed nitrogen resulting from Trichodesmium in the tropics.
+
+Why would collection sites further away have slightly lower d15N however? Remember, this is d15N-NO3! not organic matter, which means the ratio of 15N/14N is lowering (14-NO3 is not being preferentially removed for some biological process). Water column denitrification would result in a much higher d15N of nitrate along with increased nutrient utilization. 
+
+I do think I read another mechanism that could result in a large increase in d15N (perhaps what is causing what is apparent in the MCA with Jack/Sav?)
+
